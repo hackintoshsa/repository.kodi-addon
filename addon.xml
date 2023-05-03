@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.helloworld" version="1.0.0" name="Hello World">
+    <extension point="xbmc.python.script" library="addon.py">
+    </extension>
+</addon>
